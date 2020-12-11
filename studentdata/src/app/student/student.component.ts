@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class StudentComponent  {
 
-  Student1 : string= "Tuhin";
+  Student1 : string= "Sankhayan";
   marks1: number = 85;
   roll1 : number = 1;
   Student2 : string= "Soham";
